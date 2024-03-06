@@ -1,0 +1,5 @@
+---
+kind: service.CodeCov
+spec:
+  # there are no tests in this project
+  enabled: false
